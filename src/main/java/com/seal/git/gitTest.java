@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("conflict-master");
         System.out.println("conflict-dev");
         System.out.println("github");
+        System.out.println("bbb");
     }
 }

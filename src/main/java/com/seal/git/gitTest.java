@@ -7,5 +7,6 @@ public class gitTest {
         System.out.println("dev branch");
         System.out.println("conflict-master");
         System.out.println("conflict-dev");
+        System.out.println("github");
     }
 }
